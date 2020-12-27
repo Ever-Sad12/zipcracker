@@ -2,7 +2,11 @@
 Blabla...  :3
 Make by Bhone Pyae
 
-# bash setup.sh 
+# Installation
+ bash setup.sh 
 (or) ./setup.sh
 
-#python zip
+#Run 
+python zipcracker.py
+
+#Myanmar Anonymous Family!
